@@ -1,5 +1,5 @@
 # Weather.app
-Vanilla JavaScript
+Vanilla JavaScript <br>
 Bootstrap 4
 CSS
 HTML
